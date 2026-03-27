@@ -19,7 +19,6 @@
 Весь програмний код (DDL та DML скрипти) знаходиться у файлі `init_db.sql`.
 
 ## Результати Запитів
-
 ### 1. Таблиця Universities
 <img width="598" height="492" alt="image" src="https://github.com/user-attachments/assets/20ed53e8-abc4-442c-a1ab-ebb8cec7fd49" />
 
